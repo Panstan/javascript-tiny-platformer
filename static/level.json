@@ -260,7 +260,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "image":"tiles.png",
+         "image":"static/tiles.png",
          "imageheight":32,
          "imagewidth":160,
          "margin":0,
